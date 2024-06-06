@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react'
 import axios from 'axios'
 import { useParams } from 'react-router-dom'
-import Reviews from '../components/Reviews'
+import Reviews from '../components/Reviews/Reviews'
 
 function BookDetails () {
 
